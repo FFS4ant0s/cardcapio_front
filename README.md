@@ -1,4 +1,4 @@
-Cardápio Digital
+*Cardápio Digital*
 
 Um projeto de cardápio digital interativo desenvolvido com TypeScript (56.2%), CSS (32.7%), JavaScript (7.4%) e HTML (3.7%).
 
